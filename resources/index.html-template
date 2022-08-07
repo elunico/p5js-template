@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>p5js Template by @elunico on Github</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div id="main-canvas">
+
+  </div>
+
+  <script src="sketch.js"></script>
+  <script src="%{{link}}"></script>
+</body>
+
+</html>

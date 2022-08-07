@@ -1,0 +1,22 @@
+{
+  "name": "p5js-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "generate": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elunico/p5js-template.git"
+  },
+  "keywords": [],
+  "author": "Thomas Povinelli",
+  "bugs": {
+    "url": "https://github.com/elunico/p5js-template/issues"
+  },
+  "homepage": "https://github.com/elunico/p5js-template#readme",
+  "dependencies": {
+    "node-html-parser": "^5.3.3"
+  }
+}
